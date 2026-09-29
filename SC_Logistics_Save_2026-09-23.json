@@ -1,0 +1,221 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Cruz Lux",
+      "category": "Fournitures médicales",
+      "price": 7,
+      "max": 80,
+      "current": 80,
+      "img": "data:image/webp;base64,UklGRnIFAABXRUJQVlA4IGYFAACQGwCdASqAAIAAPm00lkekIyIjphK6cIANiWMG+IbkKPuDeHLht8Odk/12oyehB+wHXCf61xO0SIPogWd6OfzwM6AH8q/r/oo59/q72DOj55QBWBY/I529mvrb/a029mDPOSqODMQSALoy3z15Pl9VYJSyDHnOfNo0WVCk/N+UhJ0o1y28cESmqX6whp6BDvRbDjnh9ZRGRifS0QRKshFAg4PYhDYKefZHpU8iXu+rHyItOMZPnRngMsySCUFvQgxgx8iGLrkJAuJkvxaxD7UhJ2lfMe2Ui3JtEsTfvRLoRcncKWYAAP72oGdxgiHy66svx29EyP21ITxlGWgGiigTFkgHWV3nn0YdH53O3L6IXYh8maAzgrcJUy/3CPSOgNzS+/1AwQOw1etX331Z4/+RvmgJzHqN2oeXqtv1BUDVC7rv5ZDODE0prTYs2qR+bQCJNtV+tI9xDwTi2BtPS7XLIMS/AnRxcybDrUn0KZk/MqtMDYsTGiqcpqnZJHgY2uAfNQqDehC5d3v8SXTyx0+jRif14A0BLb3uZt+L8iC3q7c69d01yhObVmiAfjqYG37gZMaUevhITTlzOElhrGk6xt7gEP9iHnninpagTXFR/bfwLjBZ9KqQZ5GdJ2hqACXtfnU3lwrxMLwVPIOu/Cknrs8mwB2VtY9NIwbJALVOWAHxGWemssgRrD6O3yUrdS7hWAcFLSsGoYcw9aIf5iP/0WOt27iLIw6HumZ9OnR9z4EycUwjV59SkfHhiSBjZh7uzJjpWAxp4rymxu4w/9eTH2g1SBShEG8FsPLEkdlJa+pwu/tbjVsLnl2rf5ORRuxxX9lTmL2zomyDk2/l1F3VoBS0RGDA+tsSf63ZKrur1khuowZ2RHIqbUvjMMJb0AkZpHF9AQTareKsy+RJcb/e43tvECtj1sDrRsBWRMTslLgnaiRAsr8BDWEiR29MBal78xCce1Dfh6epTtbQhth/5pp9iWz/EGiPwcffsnAkwPbVOzMQn6k5W6dX2fYDX91ygkGhdtfh34XyAH/D3/YsD/fLnCkAeVmh4NzXw9goXt1PG7bzSZbHbywMuptLH71Oj+Tz42K4z6+Cd40UmVyIzniTYKH9ovjLGTCwBdWYWL5isl//gLs3COM6Ui+IeMJqPz0baY3xw0c4ySpg0uJvGFGAmUZRoJ8Yl3bV72tWgW5wqLckHNSIXsw+CrLj6YWtNXtUGx6t+zeR4CWcloAQEyL1D7HOtCAKsb21OQ0KlmvwmDtnRPjQzP9SkPHHO01o+5St1cmpDyDaxzykX5FsOOrwgvgZNtS+Jh9XwUGONagl5gt2mhDR/aotHYhu268kh7bDt1zZdgkqUMHWzPp+aeBZKjZlUcj39fRONdRZAmNS+apwIjEdqwZ29c87qOcFvNb4YXbe4PoIZk4K0opQPKrrnvWnixilLBQnfN38IsRm2MNmi0ni7cnikxFsE4wyZDuIHGfUaVclflgpBoTkIemE4vMU4qEnA5ztkQc/LbvrWsZx3eP2Zn7K7OSrQByABbIKMBhc2cCDNdwMe2BEFev+BpX7wencDsXrODS1pHrYE+KEGmf9vDqTsz3+VdAZnHX5qfox3ertRVcMg0nBeNuTO7dcpsUMF1BIgLcx816B0OJfAiSVuQZeCeLD+LylNFu8sB/Ug21RxrwBcjC5qpvZm3oQloQTmAFecenFkHduzunt+L8HzrkJVwIk4qqqDNwrtukrxYZ7dJ5SpSNSm6Y1dzMcaeCs6rlhs2iaMqOgNomyLiDQMvBS6VoQyT1F2yRYaO8neHwMSf5larf7WDSDeOoUFE3toMGKhv4HMXWKcyAAAA==",
+      "step": 1
+    },
+    {
+      "id": "2",
+      "name": "DeconPen",
+      "category": "Fournitures médicales",
+      "price": 265,
+      "max": 20,
+      "current": 20,
+      "img": "data:image/webp;base64,UklGRn4EAABXRUJQVlA4IHIEAACQFQCdASqAAIAAPm02mEikIyKhIpZpWIANiWUA0plMZHR4Lj2ex3F+837ylkOEQst5gTwQHh2zFv6h/uvVIz1ftn7Vewj+yQs4m9C2uQbt0fKyEb7MTgy4X9iyYLgjU3XDnqbZ6SSCZZBmNumbYT65jyENe3860Fudk+JBRpCV2k02hIOkpFUyWVoplDSXmfeJsOKCT6FJ4/XaONRGB9dKb6yVxypVdzd4BOLYsIDY40t/txWgAP75k2/cvHWsjT/S/mzx7TarbPvyl7wR7dtdt0ALr16LHhTv7k4LilaB4xcpNsH9U9MSZGAm3RmTR3kUVWhkFctO7F2lT7tAiiv/7wWCW2xm20kiHFsG6iO2LGIdvjq1B/W1mWtNM/a5HdJ563qMhDpAYdp2S80UzgrB0TpxzbPSXxDepJniPo+Z//rpd6mxRriu4MKwi1yW/baItnk3i40dw3dkX1H3bWUJQQQqHKWGi1bzhoxbSuf1WxWKUMa3d2EMEV9e/KMRGEwVJb6gmcryTp1iyVgvDa/74SU21unaxDbj8VgXEXVrcjX5YnROiuoy9yyqzRYd2JCas39k/WP5fxwlicF7cC7zCIWWvfGo8W+HmxdDUDtyKncOhX+qP2Rn9Mu1Ir2IyLdX43Bx5jM+i+lR6R03+1Zac861jVueKHgBmYVfUzMOn4WF25hpRAmGqtFFoaKfCBNZ/7JKclaLe7z4XLrEHBbP52gyznynBjBC23xFgXK4vPlwzXvHyg3xZVUmO3hGuNUygwZgT+Q9SI8Sq0N9/z8HEWUL0sV8T5W7cD6VWIRpubHFCiwAIvjJynfuqHMFdWh3wtMg0JKQiLVz1gqn3g8n2LVu+xIl0VcaM7OHgY0nL4cQdGjf9TCLnVbPUB1o/nWehAdjVdKWbnccR7JHMP2KIUtRSmhyZ3lusfD5VZ19xkQYRoLzaSTS0EqdJeUcVv5TvlFA3m4SLoY+KbqKvtvsxiElxpPu5xl+Rkx0jdcCByToasRK3jiOLH3oz1gJTG886mPXI1tC/2fEDORq8rApOPMFUw2AF7RnPdMbmDG2sPr7vmiI/FxDdNLpHkf4SRef688UtlLU5u8EGjMgo5kWqzMeDMQLsQqM7Y1KYQDo+miCnpOkCjbe8IoPm2/m9JOkFVs5geXeMKEOxKG3IqXNT6fkwr7fR9Y0wwPtCGJ3MFZEWeYz+iLywhbwmcZVN4qRhldcMYIO61/VBdkQ29/ge7ezKD3dld4Jsdj+KGOHCX3zrXT78TawSamFs374KCuGzy199D5mdKT4BEbmueK5Q/SPgRl1t1Z9VLYjHUTAyYhYYx7yQhTQJclUW6NjysrEJT3uEMinggm5i770JXqf6iatLsUqrEgB0j6x0opU7dO/0UNj+NcWjBctdlyHq3fpzJkdBhxDwSOCe0aeRELlbZnxxz5KC0n3yKGUsGMIKXTKO9QVl8uGp4CgFgpg8IFryJwdDXuBJVC67Cp6B5Q8g/G6SmI2SDbehSaXvw2PY1AA",
+      "step": 1
+    },
+    {
+      "id": "3",
+      "name": "DetoxPen",
+      "category": "Fournitures médicales",
+      "price": 240,
+      "max": 30,
+      "current": 30,
+      "img": "data:image/webp;base64,UklGRuYDAABXRUJQVlA4INoDAAAwFACdASqAAIAAPm00lUgkIqIhJpTpGIANiWcA0n4gDePsjat0nMcQspD8R5q6Uf5B56vRs0A6h3SHIElnAk2doCSwcrzWvlwh7435RCKYqtLJ85pTsfQKvnyqQNsyyeFUlbBmGwAgzK2cphBtg6ARNKpbdyXgkHNndwHcsJAwnhal/fPs+YhcUw5zSp0L8y1lcc3NVNJtv8E/7O4THPfxDa6R/Nkr+MP4AAD++mir52rY/Ct/XrS3N1KcOuXdryDT3b4Xz4TzhNOa76OCbpPixXOnznoR8/icDUUSRaTUq93ibUMA2zKkaDkSYyq7bfs5AfhNNHUaobFx7wqsoN0hmJkcHFb5SNGVpLb117UX2N/gM6L1rYPDcPCLuwrba8TgoMdRyfax1AzmqrVrJAOu2WZJoV0vuLV//MZemUrMHkIufFIgRk8/Hg/swouK0xmv1+h+Hj27RUpOM5mfdJdUu28apXeEslzumkpvpi46FW9PkiPq8eOZxJmbDhi4A9bNcaq5CpIMnef59n4aDbq7LUCinUGyKm1wpco9+GMg5HgG4t5aQ+hZ6euo8rxs+IEqEUwdAcXM85Ghteo3tMLal3xW4r42738ohCu8eM8ssqpr8vl8njhz5K6pUg8lyRtZxNn9pL2uUedTRcX8Ql6529BqS5aAXB2/ew72D8SOp6cUjNK+9Ow89iVpkF/Ro6Qj67WOf3V/O08u1G9lezk7UnZ48F5cLWHrc6M9Ar+kaswJoLxTDQHqgBruQay9hCXc3IAl0l/MLQ9eloR7VV+7dvrWjZEF1ZcGVq8jTy4HdO5J3/sr/STQ04drSowolEGWjpmqr3o5ePuu/oDHFKeRiCT9aXvG9pzdZbOSSV/MsBweEYCkhMlRmjdWP5RkyponVor2uWf+LSeAKal9rWDiM19VcP0A1ZYCJyWr7xw8ibX7n0M3EKFTofE+IiSxR9qcjzaj/zlmYwZD2APRoUgJFymjuVdhmOlrNDcv6zUgbeRpe0dwRpefoQaxMhbGv/D15blt54ayBJquSxXvpzYajsu4iznJtQRScPuvoUMT9SMam3/OEn6besG/Pivh+/bndEeUUHBobvHJtOlKY7c9JioHt60r0dpX9cH4qTdPfWcy6/QLUILcNr+ZRGV95UK4Whxb/1FfrjKjcLs4D5Lmc5Sk8AXtaiahQSVnPmlqclu1mBqzIvLzhydkD3ydE4pTZuEQEX81mf79lV4M8E4S6Ypgf8aT/BHBEnhJKH+VRubFeL9Ez+gLoAAFRTuFXKWgDjJvOHBNRgEL/yL2IgDtSSy9DSHbN8AAAA==",
+      "step": 1
+    },
+    {
+      "id": "4",
+      "name": "MedPen",
+      "category": "Fournitures médicales",
+      "price": 265,
+      "max": 60,
+      "current": 60,
+      "img": "data:image/webp;base64,UklGRlIEAABXRUJQVlA4IEYEAABQFACdASqAAIAAPm02l0ikIyIhIxqpYIANiWUA0xhsVYZ9YX22427vfafQr6VzIm7iHOiAErPbktQDpMi1/zoOsvThb3fHxgUTSMhBscutWHOQ07NiWlkv3RGoPE1wZX6+LKF0nvGYA9bSespyfpF4bV/c0UImStdK9bjidmfzYN47YMoYoqovDonvz/aVWXm3pLxAHGFeu2qW/8ibauSOERGEJkc9x8Js/gAA/voOt+TVuGur/vVeq9NGD2qWf9I4Optk6gG7vVQ6zMgGGqMeas4MXNw5ceMDy9dF3AWKdiZnn2YRIuZh+p6Zvb40gpT+YDywBd0OrhamJ/4yQjVpcm93VnVweMIdcMk5bLcD8om8zitTvfM9T1Cj3mEHiiANse0bwecrpaCYSPxPW+bMTidnumTGVjc0JS1G5ovOjeYO8Si3rtnFlNqhzI35VSG6K0Er1j8RRk6qckw1sQQW/4AhquwZlOGHqglqxhy+SBYpaM/nU/C+Muc1QWqAJ65PTXJAIsRpkJSDChynZOVhMt1yRBNLxca6Vhc4wXMN8geQ2Fi2+nyl/7HbVnMwL24ex/GdwemPZLSBGt4s1orXG/bT4XLVS+v/RBu25e5vMJf5PZqdhDKOxLNolPtf+2t3559Q8nTuS7sCCbiIS+N39rvIQSe1MHN2fht7OcgZdENZsqjPHJjPzwsngBgmuHO6f2e3RiTAZKWstvDdQPXjpvUQpOuYRNcTLFRv8BYnwC2MAeRrNzsnJfoTe20B6Q4BrNai48BCf+GCswYp9yS4m8Re9qbyt6J76sfOvPSCjICYfxU8FpCC/ORLl+Za97tM8cr6qjQPYbIUcgUWUr6hR4XENM9iARrt6MKWREdd58kFnuQjFz5up/l6+8e8PgJD2p3ZqMqwZZq9aNxO7oduJjo8DMl2aFGu7FSDzb+WTDhSvkyHiKP80SxhjfgnBO4OOi8QoXEHyYxgBg6LybCNnlX0DuQLvyUbqm++u7CurSk6Ocs1wpohy2ldlareHWliaQs38L2Ka5PQJ7Q1Oe+d6g+ya2DmrO/hYI40tHr0A8iIsujRJeT/4Mf++gZRzLUxKI0PczCIrobCP95RF0CkCSZuBvBx4G/iXghrs08zVCfK5/499osGNrOpUIBt0o3HIk6MsI2ggkdABSnjkn5RWwUHVYDhzRl+XTn4T+vxQU410WNR/k9pEWISBfFv/Z+Q0f0dQfqt24uYlaiLOyukEZ5EUcXyXk/2PJukQydaTspF0tJXd+JvLDPIlGJe50pPXeAbhuycAteE3UDKDghhWG5s4c3Tj7bV+orJcUagkt643E4sFCdRJiZ4KXG4jtEQ80LoQiLoBDWqJp7erPXgzemuVHyZj2LvEke4KQQnJh2c/RETymWysjbRpzhjJq18rk26bonQLu+pvU+NsmNNCWevyHDSrIHn5LcBNeAP1FbZW9QAAA==",
+      "step": 1
+    },
+    {
+      "id": "5",
+      "name": "OxyPen",
+      "category": "Fournitures médicales",
+      "price": 260,
+      "max": 60,
+      "current": 60,
+      "img": "data:image/webp;base64,UklGRqoDAABXRUJQVlA4IJ4DAADwEwCdASqAAIAAPm02lkikIqIhJJOZcIANiWcA1HHD+s+eOsn3I07XytZ5zqC1L1aTwDY7/VvAk9G79QB3fByv82kCq5FRn2cgdUBlnX7w/rqGcVDkSKLTjRbBQWBwWH7qgKrdPKC/wruRH/zDC5Pelq0t5jmv699Lzfg/hR0rZG6oqy5I7t1d3Up/Ceg0FezbAY8YF1cPBVDIVS7+/v7TIwVsYFoHzgAA/vn7A+rLUQ5H/zbyNvoJLFRjke/GPy0Xnjk/l9+lq3y+9N3Bdi3mAlx0zajTnCAxixAbiuP9z+kolNDE+ynJm0e25gHNbXRTOlnN3pGcvIDz9FroNVXoBBekUnkIDk5HDWvnQXzHMrrojTfoRv6muTci5wsCAEixTP92V3CtiQtxACRuHjjmY+QmkgNNi8ZbhILiLC7hc+u0h0JFuOCYqUX8oTHcNeI7gnBpy2oyarECiEogmBih74nMk/CfVuUWnJdDFpRXZwKWYjIRpoy+jcp3uGxJz0KRiQr/DW+O41fnkMwvwK5WfhDIBzyfBno1am6q3pCu1SxNgRSD7dUQuUmL11YtCmFA1G+KQJ/SNbVKGbUvKGY1aVgjDYdgOwbmrxad+k3W0pw8HcMA30934C3Z5Vu3gKv3est5UHetwxjgXFB/My5YfS9UKin1gLOJn5g+cgdx31HIm3JJhraStnJt611PYZ0dSrYzhLgE+NmyXP1HsFCbmr/AG8s6hBfit1CZeg8kSdjAm3Jxc560yt0EL+4m1DafqhPU20Y52yavaWn/o3brAdPwQHW57L90j/8HqwXkH7I/5F3NV9p0K1qi2Wzwu4cMwUgPa3RXb2w+vFP5LqnkAYsBalCDHgSbrwPFD01wwHQGKe6fkAx1zl64xzquYfE5sPht8sEhA+VaO/NgcRMrWhtJrZbLY/8XEbqnF+ShLbU71YxUeFb7aAZm0Yp8xLeerF1sd17mjCwqTqHd0vdB8t9D/8YRL20tOH4qxexPF3SIv9ICfhrI4d+3jaPhj5xJgmZuIipwTSC3nc7dZYVXq7sQx9I64EUrX2Iu5BFyA6Q+y6mt0r4e3kTmeGes6XAtranhVauHF/McX8pnQK/A1KsGAQMtrZY2qQoVoGArzVhXRqTH3Bi97zc+pvbqD+czQ16eJxX2bgDSuf6wkNGzwZo57GW+9FQ/MFsMZaxRGWvFCRCZnsg0QUcHxT6/n7PknoJRrJyg0Mfg8AAAAA==",
+      "step": 1
+    },
+    {
+      "id": "6",
+      "name": "MedGun",
+      "category": "Fournitures médicales",
+      "price": 1250,
+      "max": 10,
+      "current": 10,
+      "img": "data:image/webp;base64,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",
+      "step": 1
+    },
+    {
+      "id": "7",
+      "name": "MG Refill",
+      "category": "Fournitures médicales",
+      "price": 250,
+      "max": 30,
+      "current": 30,
+      "img": "data:image/webp;base64,UklGRiAEAABXRUJQVlA4IBQEAAAwFQCdASqAAIAAPm00l0ikIqIhJRGpoIANiWcA0pGt+ybug3oDIor3HLLhTzG0umPz0b9E71bv+vQAINibi+1d1LFx0Ecauw/3AV3lPclY3CJ2IYFtiBFFft5sEPkDhiIwMe37IdmT8QKluGeF/47BNX2IlQ76uNcWR5KVfUIOQFM4x0m259vWnfV3oz2/C0VX1TYgoNE4WIVqrEwiFwtzlQ87xVclHnwTBFallZF4+3lAAP75+wPgSVqzdP69aW5tx7tPo2rghquTkH/VU4CXl2ifQ3jw2viMBWXHFShywo2t7EAJjxmlDf1Q06f3OpQvb5d3bYX3i6EShTU3/kaXSbcha+oOZDPl/UR+5yHFgh2b2z2w2SL9J6iag1b9xoxJ0JZ3dI3++AR7V3bnHIjHDy3YcjRQ+qmA5H8k78nhRWTo4U0zFczDW2f3rfUJssQaVaWWEFu0aIUgB45A1BVL1ROEBl44f1dqX7M0xTKk6Qm+WdPwFPy4jKpA2030/e9ruohhls6CRMNrrY2WJCCfliq+yUsw03OXcRqPopcpoBF/D1TA1IWTFQcI1h9tpiQ1N97zj+1gFNOdkAb/hqwX8xiG1HYf2floU0QoHw/WoZySwAyilLQsne/JQB8vgl40rA8XtEQgcooILgCcmBKu+e2k3qLMP7J4Z0l8yNfGDQfGYCZvO0JkQK6Bjo+snu79iOX58Zx0AinCPWngNZdWggfXf8ih6jYIgk7BsPnSgyVbIgM5e8q9AGxSgHQczJgtIrWlRktYO5lhby4GKZGtNKUrbtFWagU3UadNlIvIPbDcxATVfrJ1IRt/tR4jmG1wZkklePZaGnhHfxJ4OZcWGeIq1n9XvXGAi+6GlWhsrs7n4Ll3p3kuEDBwF0camzNlQOAWmOzpTLcAVYPB3edFAje4wZFoUwJmCZL/H/MN4/P87LnuTP6YiQpves49H1JQrOmOfoDvZfSFlpx1Q8nVal5ooNPn+iZtduvHJ2jOQBDnYB+HQas3vF7YoP/VgoBO/hwNFWyQdtW94aVS28tYgy96V7YlAsU3OHzXpYWYcxTXBuqT6g9yTHKd/w/VRTdac4J07YIww8alRvF/vu7Tbj924rskWwzfJD/RS5tf/JejYfz3l9JPJgNWGRU+s+Q5INWjEkJXb1J8I+AEwwl0+C0IoPN7636rfg7lHeZXPyfRYa9/2DY9T3X8P9HsubMnip7NZypNkxuSixVXf2eaPc/+NWSUBSRV+gaxyz9Zykl9+UH9KgqY1lhOBzE2439a0/B/L9xxRZ8LL2gWJD3itIwM9mDsCdvp86rj3b+0FNXYZc9meC9ZOK4kZxAf7FdpfuKmygi5dWUPqtpFO2EI0L1M65xcujd35LFRNHX7+PaAAAA=",
+      "step": 1
+    },
+    {
+      "id": "8",
+      "name": "MultiTool",
+      "category": "Fournitures médicales",
+      "price": 485,
+      "max": 10,
+      "current": 10,
+      "img": "data:image/webp;base64,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",
+      "step": 1
+    },
+    {
+      "id": "9",
+      "name": "LifeGuard Attachement",
+      "category": "Fournitures médicales",
+      "price": 350,
+      "max": 5,
+      "current": 5,
+      "img": "data:image/webp;base64,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",
+      "step": 1
+    },
+    {
+      "id": "10",
+      "name": "TractorBeam Attachement",
+      "category": "Fournitures médicales",
+      "price": 450,
+      "max": 5,
+      "current": 5,
+      "img": "",
+      "step": 1
+    },
+    {
+      "id": "11",
+      "name": "LG Refill",
+      "category": "Fournitures médicales",
+      "price": 125,
+      "max": 30,
+      "current": 30,
+      "img": "data:image/webp;base64,UklGRmQGAABXRUJQVlA4IFgGAACwIACdASqAAIAAPm0ylUgkIqIhIxVbuIANiWcA0qTs0CmGe8u1ojpGveh/rjX5R/Cj+d8nW8QgA+pH/A43uCO8UHyHzs/8j04v8//Gegb6Y/8PuGfyz+tf7j1qvWj6HH6zFtq4xp14clVHe66TItGXO2u+Pe5uPE3z3L71Ogt+IZLa9BlmEqaT2uX/Be1rMKt/DSekbL7HtiQ0c4aU8G8Tn5Pyk95WyjtaDc01Ce70z5kzkYaXXMVL7ptThQar+n/MFWsV3Q7CmBjBfXCMwSekrfBpdDzlcX06giOjqzzMzKBZ5opSgbHsJUsXadOw4w3GVCZQ9uppiv+maf7qNwnHIs5G4IbA+YBeHOesZAAA/vpoq+dnvaWr/r1c2+jZKq8xDFfDagE3zzIngQ56p5+OTawpL1vm/ethg2ne8rBy1uCwx2OebzlwMSVhO7LflJTDW3UiOlbKAo6XyGiCBBfgtuAEiD/k6eJHV+2axvZ1k/1MP9xwzUQhhNOpVEUuUaQk2ljng36sUHYw71dKluvF4axmeO03ckcGHCk8I869UPJw+WniRud0D+v+CTudXmCtiU3R2QavZRJg7pAjkXP3lFEfvxbkTheDnx+9Kl7gsnV1S9ASDFt1Avx5s7uRPhmahSbbC/Mvcn2q0VpY2TAQqYCxB65fBwNL33uCRjrKQttR/DMxIrsIVBfydlmjBnlhMuCVaVupbii/mM9uO8SjoZJfbK0JlYf+0bfKG4uEc3PjL+2pt5jk+c6wy32dTz9fmptNDorbXv4hcZ25jxlb5VWep8GyXXE8gGO+ntILViGgIxu/xh+BM8rpVRLe4SOUejw1klha3loGy3TImA4DG2jMogAC0B0O8LrFNui4pbuQ4jAwTe6iDe/Vg3pr+5lHhtfGoWb9PTRLorcrplOPoK+gbWcdwAs0rISxA7rzeAWRqKuFP0tAvxbbOxUvebA2VTww+c0fUd8AyjzoaZKAGYhLVkmCUNgLsMk7IJILYFwNTNb1S+IP3m+nN7qUwjeEDeqFDe5r5pymRwDLh3rOZOR8LMIKsvUp9bIcALMgqvBv/K4LiJP457DMSyAhqiZn1cHjUrN/EAp4JQ3arzWKFxg65u6tsEkWYQE2UXHdaoTjf4meXDzyPD4x7qvodwEcSsim9ng6ae8VznjkyGlDF+fG70M+FNm1eCwK5n8E3ZbrOehlLe/3wG/qqurmAuGxC+YofeDNy3eYn3J96CbQsiqN4EdUEyH2186WxxwZo04cj0dL3f0kLoEu9lHopkwNStnynatO1nKMocCOuwAC5hdMxcEDPkVUJ7y/FjkliSua5VwsaHwo0I5y8HILTxwzBVFFkb7PipaBTb9neCeZfdcGcK7j7Jz/MQUUm03hbpIARsQumRIEPx56x2pSUzxfJ31Se1qIH5UtBxXafWybOQ6zWEhNVe4zKSgnIVUxJtXdfjrbQi7+VWh/8YPDwQe9t67EWe0zP8aZIxoY347fYHpRRKDn3T9Pde9vaX29Z1/7gjZeH93xZ8utHtHVXV+f3qrHSCEMAAHfh9fNfXy1dnKSgzfBK/ERdo/D+/b/0m0qJNri1j9t8bGSOLVc9ajye1UfUcvMXnxEnQVMJZt80Mw4Uo6DlaEYbZ/jFWqxi/frL1Mu1H0waXFunEhz0wo1gzPPnRfISh5B/sBeLd92fmT2aqdnO2EVf9XmjIoHnmfa6DTFywbH2xBEQrzJQ96nQAD8iaqVzMtJguF+8BOoFu8x8j8ZV/lfSb/v9YFMUMS/Y8Qf+kyx/gA/uy+ZY27v3w2jYrH+b8+HV2n3o3SWX6mbNPAYODZ4r+OCw6kI8qkx7bYW1/cvE1V0X5qCPOJslcVBxm1WRuaz5wP4yB/jBy/OfjWLb880h+R9l/Ek4m4az8g6cXMhYetqZX1Xa8GmI+xQatTNrBvHAp/XuvEP/tS2g1I+lEDDc8qZFLepexPsxPUpRY04cC/9L2acQZz3yjTfpgDbdXO7R7mdJrwedgko5f7JzQZTS3Nfw6hM3vprTRc1uTR8J2uA5lXoEbJpVZdzf6Ru3DgPfU+QqVOROBF4mcsp+5K6E9V2pd3/wobqHUIz7Qp4RArt7XN/AxAbJGFa/+OBos8xK70p8PImPp14mq+4tDwyRGrIKANjQELt4tbqwAAA",
+      "step": 1
+    },
+    {
+      "id": "12",
+      "name": "MedGel",
+      "category": "Fournitures médicales",
+      "price": 100000,
+      "max": 20,
+      "current": 18,
+      "img": "data:image/webp;base64,UklGRtoEAABXRUJQVlA4IM4EAAAwGgCdASqAAIAAPm00l0gkIqIhIxK6eIANiWMA0qAm/Yc2qGP6nAl+AHu4/6vpadADnVf910//pGerJ/DP+H7IHne3zx7ktfsbmr7JrZkPi3qP/2/1lu+090IB3GMw1gW1FN6rTNwoxr7TSRGQOiaE5W0bqqNaN116/Mr+ixhzrSQmSSyFe+UZAdqCCAlw9vDQ1KqiX7l2uPuBbT8DeX6mRAhNBEDpy20qZ8ae1kcCTXTzXSCPFF1NT5My8bg22EttAhmEyC1i2weuf9oxaB0Kk2NwE7vnueW6QAD++g633ERYp8X/HMfp+/7Gp/EnROX3TqJ4nHT8gQ5TOOLRtn68oz0/iI9ZnsJHHy++jRJe/m2TrRh+W57P06LcuQRqlzWFsDGWfHI8MeRYk7S8losWYRdJ07hRISrC9t+kTUUTzYTTHxkaZBELLcrHJ3jq8+3Ng8E8WS2/2Kebss78wpbq7/v/aSxtOLCKQ/qxPysYJ+fu9Vmo07Skccn9cZp/eaz2xIjnzQODkcbp8Wa3zD1kbRkLIWv52+A+H1Pdvm5io7oQE6acIxB7b7c/1o1IENa73gm9yp9XmEDBvJrqQw2Z9eZQ3KnMTOeMJ/qs+Wd8rlrz30AF1APE14GPixdZ74XcpIoT22mI8NB80twF7KB71G958WZCxvGecS0NcCUuRV8z0oWDKE2/gjrNAaxqSp/kSZeidmdFYR6ZWobXk15+U04nSMvm6KeBqV7fov0VMCb0bbiHseu3PZZeJ9wprGL76ouvyGeZyhdXznEnh5rZcyArFOdgqJk/GoxjdNCRy+F9K8Xr0rqK80IrV/yGi0EKWCUWYvf3DXLSmMJf/4dnPGbKoj4vOtDso3z0hU76SmOGSMsb3LsCy6lKi6kyr0/4aaieHb1NLJbu7ZHK1Q0oQRTsGbVHK+YvZSCz1rnKwkAoRIA0g/Zl3VI5wL/Hue5aqnPVzjyT/sblAKro3nZdnO/VOVXTTCMI/eZTDuH6dz4b7TRhGZ9g+3EWUwzlrXX/+prxx4hZvdpbS0gRlDvC3NFnFRt81r3grFjrU/HJcnIqjfEzyV2X/1TZG8+QqAaISjskDnsPDrczlPgNAAoz4+ukgfGxEUfk2pw35XEk9sj4kRMffNQZYQMR9BM6vftQrWK+LACo37JkjUeeoqnsYnZSzcHCMU9Pvu2DQmz0EcC1bWiMV05ZyFA/O/9VT39fErLyhELNoViKDWIrD3PNkgP1xcIOp39TgGNhqZPunJ3uzBg8GpXtB9+GRLW/MiQSCZxagdUVJsPv76oumvisYJFQeFj8se/+LAyAF/7J3lAakX5/78CxX5u+oOmFHV6CJbtXsM1jfjIflC2UuSmCk4PmifAU1GM05T/5Mb6wwP9oIe57cwyiMDGm45poMG0Eo9Xktle0lS2XM8TxxE8oCzPH5/hWjqRL6KdPdyfVNYRL00BQwHoNBpvPYso5/a7KiIKkHZsv3JwqmPdXtYwyI8r/awmADVJMYRJu48aHoAd65R6ZBUQtzu9pSlevHRZJwQD/bi9ueXuaXoqSq2fY4yPsoyeHii39C4Mz6gIgQe8RzFClxjO9T1yggqJUifSi37LcuF+J37GbQGptRbmYdpD7DtnP/5TrBy5XgAA=",
+      "step": 1
+    },
+    {
+      "id": "13",
+      "name": "ReadyMeal",
+      "category": "Nourriture",
+      "price": 14,
+      "max": 60,
+      "current": 60,
+      "img": "data:image/webp;base64,UklGRtoCAABXRUJQVlA4IM4CAABQEQCdASqAAIAAPm02l0ikIqIhJRGowIANiWcA1K3D+2efVfSGMJzHzPPIHqDbpf+xwztiXr+1+sk7nFELK5rG74wn/5GZA9tAyhP2ynCB8uH9dp+sng2fe2EuSaR/wXSmsYEqARKyTk1ncnm9Sy6jsEBPa7ox9EynUwnmtG+7oAZrgSDk/rV1FRsIUOzV3435twAA/va8nn/dbxcoZjuInMYKi0wPZASIWpHPV7EMCVFcViEguYSJnRAwFjgELBrWQZOFD6f30rl4OW2qsiFtOmZje4W3UqftQHmC3bIdxmxdRuv1kYw2vOOTuR4HHnrbs5+gmJE+YUit1czl13CVSCH2ZG+pTTeh5rPX9gK4ZgSC6E073HLDvLPHlFetZJiDCd+QdiuvDm0mxVhMH7Bl8vLweq305RcL8fD1smsXDAUdFlr12VXNwCTlhRc32XMgxkWDg3cjkgiGe1d+/X9Zvhp8wRadYkQ13ru2rf91NcoAi+whq/Ks24HS0aKNL6IVkQAGFbcoJWQNT7XiVYTNtVaYW6OwjnWwjpOcToMQg8FhCjvI2uN41va/I92Q+ztCbK/KzZ66QHa6XXmySf1IZuZrmtFRpqfCMR6hAiz9S8+KH93UkUr3x2Jy7XgEM1tmgmK9KUCoYxKHwrExjgyvzDVg+x0L6bqIXF26Mz6DI7XT7eDe4NZQ2B0qL9MOLbe8+haUE45HjlMDdogaQpfzEz6PBLay6A9NblZG6E5Kof5HSsP0R4qcYwzphd5vcfX+3FJ6/sBb07boNpqYXfUtngoTYmVU/nxtDU230ivF6vzt0BbmPdsHaNrc4gm5UUWiX4Rew34ceKYlIb5B/gBM3F5BThwnoFCc0OLBVXA4+/0X5MP+n56eS3FyACKAfWqRfthZNlUPFK194W4ZGgxfhfvmWW/6D+MxWgv2hFyj+cpRqm7+kmAGEwYucAAA",
+      "step": 1
+    },
+    {
+      "id": "14",
+      "name": "VestalWater",
+      "category": "Nourriture",
+      "price": 4,
+      "max": 120,
+      "current": 120,
+      "img": "data:image/webp;base64,UklGRnwFAABXRUJQVlA4IHAFAADwHgCdASqAAIAAPm02lkgkIyIhIpZrQIANiWMA08xxrhwPxuYYe3Q51zzqt+A9ADpmMiBZz/lchM4V4q5uiwvHB6MehN6x9grox+g0UvUUMzvp1aS3iJ3ssU3W2Brwrp18NEwk0qAB3hcq7WruP2pGlCBTApsGRLTPJdACqZmIo7bXD/ehsg3d/onL6sq15qIOXttdgsMGj6mPFJu6Yot8bvUnFG7ev0rKADnED3Cf37fH8MN0T3XK0WhsT2J4JPeyTpoZzmCUTKW7pDQVjvHapnyJMwzrQqHB4g5epYb/aPurAT7YO76mttUuTL9HZfxExb4jA3+YSS3Vijn0eVGYAP7zhYgAAxsDPCq+bTlMTvEF1Ue+UMqr8Gq5z+WKti5NqzT5HWf2ZGDkX/3Tee2FcxBgsUTBkLn7+p6neAvKL+Fc6DNvH52KUPqRko91Yf2WSii/Ow69CERE91UCZndROXqYqbf93VWSMIWOja1n1v0aEV+BlWA1A0SrVwgzLRk9Ip/uHzdWVKGi7SkW3NABUqs6RZZBTXrTpng3LcOLv5PZtUaM7goK6fCWpZZYpE0DdNfJn6o5dh4jyXq/YL0c0IhT0e0TeiPvqAjSCfNVCNaVBKijvp9xiXwXFw7pjLZxZ2fpcoSMXOSB2OOCiM55nBTOJ6lRJLceteV20gdXvCP7Ysk/xsHIQDvx/cICZWryYleqQZXZXkP1NQpXSiBBgijBVJJ7tfwa9V+cZ8DvgE1+CbI4gk2H9O274/ushUhdXnZyKEIG80fP6VExRqJFXrpqK4FBEVlGvRO7Bh7Iz9k9Rijd5KY/eF03FS8QXQ7lfsrZrE7Lez5J5T4efM4f69T2IFji8hjSXHhurRPYSHtsgWj6hyeyJCyZCMWhysFyO3UJw8ESquqElWyBBHKjih69tNlrXvU13K6mkPNmSH0z5swW3ZfXRQdfNWlTcPw8hbnC+8qAsK5+dE2HixjryvRuXaypPeEsRgTJ7G4+Ui8fIaht5DlUXyG4v6BfQ0WZO+B/X2XESnCZy8vDukF99r53lGjRPW9OwMEmCAXR8BEGArgs404tSQ1mgSSlWp8SJvL/lGCBTvXKhYMUt2V4zviowXbgRNGma+LANCgBGXKPRZ6hF8ly4vXyh+6zeul57d/BAElnN/q+AemK64SnQdaipM1tlKGF6d3nA8poO7kA+fyHKS94bwuj4UEzePKEq5MDw+A4gZJ7w+Xn/ICaxev7ags8Nac42/CKCBmsqJDRORzf7Lw7wMWZj7yAxMeZBin5Y/5S1mjZJEPkkGNR5kgYmYx2GHXX3CYz84BeyiTX3c1SuKHyEceav3DGXwXzY+cWnwGRJVgNnUF32a4clX/P/9xZdwjr3KV9aiAwqG2NfcOnZzFSxkq+dwLZrfz+1ZkJTaoYe3gK6keTXRSBkjkqaLl/0DNMWlXLBABtRnnLfbYGYKk/pWkbBH5HIMynVvBjTbmE0XkIjOjc5rrKmDKjEpTtLMXHJ5/7CO0uCmeX3nbbYg6BdfOcg3485Q+CkDICPTK+neDja9kptWvX2jyYy/8xo+Hd9pCdRcjmVHh8QEnb7IULn3btxKVwygRCKjFf8yxxTKvSp+g7JKcy2yhTY4V9eDvntDb+oKqHkDW7pLtgOYhsMaKRsUW3LrjMCyZtjRvjwuYXyYfDEqWHJkIJa6+Yke2E6Bxzy/74ZQz/RdnNdvjkO5snzBqwNr74l+Y6JBY0f4vJzar1pl42aAcRcMhz9upQclAv1T4DRIcLCoImaX/eUQvyphhasQDsfy0UWwFtaNyZEP+5SfV13uOkFbv5PnFJeUCD3W75g6yGVZHFOUFN6H066doAAAA=",
+      "step": 1
+    }
+  ],
+  "mission": null,
+  "medbay": [
+    {
+      "id": "0rtzuedlr",
+      "name": "Main (T2)",
+      "tier": "Tier 2",
+      "medgelCur": 400,
+      "medgelMax": 400,
+      "patients": [
+        "Soso",
+        "K-Zi"
+      ]
+    },
+    {
+      "id": "hwol86xri",
+      "name": "Lit 1 (T3)",
+      "tier": "Tier 3",
+      "medgelCur": 200,
+      "medgelMax": 200,
+      "patients": [
+        "GK",
+        "Lewis",
+        "RedDaron",
+        "Twecea",
+        "Dragonza"
+      ]
+    },
+    {
+      "id": "oqj5czslf",
+      "name": "Lit 2 (T3)",
+      "tier": "Tier 3",
+      "medgelCur": 200,
+      "medgelMax": 200,
+      "patients": [
+        "DDVadore (87784)",
+        "Zx-Hori",
+        "Bist",
+        "Raven",
+        "Exegol"
+      ]
+    },
+    {
+      "id": "tamqjesxg",
+      "name": "Lit 3 (T3)",
+      "tier": "Tier 3",
+      "medgelCur": 195,
+      "medgelMax": 200,
+      "patients": [
+        "MrDiu",
+        "Coldendure",
+        "Haldarion",
+        "Ezgaroth"
+      ]
+    },
+    {
+      "id": "ek0ypp9ra",
+      "name": "Lit 4 (T3)",
+      "tier": "Tier 3",
+      "medgelCur": 200,
+      "medgelMax": 200,
+      "patients": [
+        "BEARS",
+        "Hyver",
+        "SGT.Peter",
+        "Fidesien/Ayuma"
+      ]
+    }
+  ],
+  "logs": [
+    {
+      "date": "2026-09-23T22:30:12.343Z",
+      "content": "**RAPPORT DE MISSION - 24/09/2026 00:30:12**\n\n**📊 CONSOMMATION MATÉRIEL :**\n- MedGel : 2\n\n**🏥 CONSOMMATION MEDBAY :**\n- Main (T2) :\n    > Consommation totale : 200 unités de MedGel\n    > Rechargé 2 fois depuis la soute (+200 points).\n    > Soso a respawn 1 fois.\n    > K-Zi a respawn 1 fois.\n- Lit 3 (T3) :\n    > Consommation totale : 5 unités de MedGel\n\n**🛒 RESTOCK URGENT (Pour 50% min) :**\n*Aucun article sous le seuil critique (50%).*\n\n**📦 RESTOCK COMPLET (Pour 100% max) :**\n- MedGel : 2 u. (200 000 aUEC)\n\n**💰 COÛTS ESTIMÉS :**\n- Restock Opérationnel (50%) : 0 aUEC\n- Restock Max (100%) : 200 000 aUEC"
+    }
+  ],
+  "settings": {
+    "respawnCost": 100
+  }
+}
